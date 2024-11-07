@@ -1,21 +1,27 @@
 # 🤖 גרוק-בוט טלגרם
 > הבוט הכי מטורף בטלגרם שנבנה כולו על Grok ומדבר בשפה של בני אדם (גם אם הם חייזרים)!
 
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd6bWF4Y3k4..." alt="רובוט חמוד" width="300"/>
+</div>
+
 ### 😆 גרוק נוצר במיוחד כדי להצחיק, להפתיע ולהיות החבר הוירטואלי הכי חכם (ומשוגע) שיש. 
 
 ## 🌟 מה הבוט יודע לעשות?
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJ..." alt="רובוט חושב" width="200"/>
+</div>
+
 - 🧑‍🏫 פותר את כל הבעיות בחיים, או לפחות עוזר לך לשכוח מהן לרגע.
 - 💬 מדבר איתך בעברית, אנגלית, או כל שפה שבא לך (רק לא ג'יבריש, יש לו גבולות).
 - 🧠 משתמש בכוחות על-אנושיים של Grok AI בשביל לתת תשובות גאוניות (או כאלה שממש נשמעות גאוניות).
 - 🚀 מהיר, מצחיק, ומוכן לספק תובנות שאין לאף אחד אחר (אולי חוץ מסבתא שלך).
 
-## 📋 דרישות מערכת
-- Python 3.8+ (גמיש, אבל בכל זאת – צריך לשים גבולות)
-- חשבון טלגרם (תביא את החברים והמשפחה גם!)
-- טוקן של Grok AI, כדי להתחבר לאינטליגנציה על-חללית
-- כמות בלתי מוגבלת של מצב רוח טוב 😊
+## 🚀 התקנה מהירה
 
-## 🔧 התקנה
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExq..." alt="התקנה מהירה" width="250"/>
+</div>
 
 ### שלב 1: העתקה מהירה של הפרויקט
 **העתק** -> **הדבק** בטרמינל:
@@ -36,11 +42,24 @@ TELEGRAM_TOKEN=your_telegram_token
 XAI_API_KEY=your_xai_api_key
 ```
 
-## 🚀 הפעלה (יאללה, צאו לדרך)
-בטרמינל:
-```bash
-python bot.py
+## 💡 דוגמאות לשימוש
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc..." alt="דוגמא" width="400"/>
+</div>
+
+```python
+# הנה כמה דוגמאות למה שהבוט יכול לעשות:
+/start - להתחיל שיחה עם גרוק
+/help - לקבל עזרה והסברים
+/joke - לשמוע בדיחה מצחיקה (או לפחות מנסה להיות)
+/wisdom - לקבל חוכמת חיים אקראית
 ```
+
+## 📋 דרישות מערכת
+- Python 3.8+ (גמיש, אבל בכל זאת – צריך לשים גבולות)
+- חשבון טלגרם (תביא את החברים והמשפחה גם!)
+- טוקן של Grok AI, כדי להתחבר לאינטליגנציה על-חללית
+- כמות בלתי מוגבלת של מצב רוח טוב 😊
 
 ## 📝 גרסאות
 - **v1.0.0** - מהדורה ראשונה ומיוחדת מאת זאבי פרידמן, האיש והאגדה:
@@ -67,3 +86,9 @@ python bot.py
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Telegram](https://img.shields.io/badge/Telegram-Bot-blue)
 ![Grok](https://img.shields.io/badge/AI-Grok-purple)
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd..." alt="סיום" width="200"/>
+  
+  ### 🌟 בואו להיות חלק מהקהילה המטורפת שלנו! 🌟
+</div>
