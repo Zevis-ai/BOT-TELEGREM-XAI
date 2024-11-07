@@ -2,14 +2,14 @@
 > הבוט הכי מטורף בטלגרם שנבנה כולו על Grok ומדבר בשפה של בני אדם (גם אם הם חייזרים)!
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd6bWF4Y3k4..." alt="רובוט חמוד" width="300"/>
+  <img src="https://media.giphy.com/media/LcGFscTzOn9xm/giphy.gif" alt="רובוט חמוד" width="300"/>
 </div>
 
 ### 😆 גרוק נוצר במיוחד כדי להצחיק, להפתיע ולהיות החבר הוירטואלי הכי חכם (ומשוגע) שיש. 
 
 ## 🌟 מה הבוט יודע לעשות?
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJ..." alt="רובוט חושב" width="200"/>
+  <img src="https://media.giphy.com/media/3o7btNa0RUYa5E7iiQ/giphy.gif" alt="רובוט חושב" width="300"/>
 </div>
 
 - 🧑‍🏫 פותר את כל הבעיות בחיים, או לפחות עוזר לך לשכוח מהן לרגע.
@@ -20,7 +20,7 @@
 ## 🚀 התקנה מהירה
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExq..." alt="התקנה מהירה" width="250"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="התקנה מהירה" width="400"/>
 </div>
 
 ### שלב 1: העתקה מהירה של הפרויקט
@@ -44,7 +44,7 @@ XAI_API_KEY=your_xai_api_key
 
 ## 💡 דוגמאות לשימוש
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc..." alt="דוגמא" width="400"/>
+  <img src="https://media.giphy.com/media/R6xi8dXsRhIjK/giphy.gif" alt="דוגמא" width="400"/>
 </div>
 
 ```python
@@ -88,7 +88,7 @@ XAI_API_KEY=your_xai_api_key
 ![Grok](https://img.shields.io/badge/AI-Grok-purple)
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd..." alt="סיום" width="200"/>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="סיום" width="300"/>
   
   ### 🌟 בואו להיות חלק מהקהילה המטורפת שלנו! 🌟
 </div>
