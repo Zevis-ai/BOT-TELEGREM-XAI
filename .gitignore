@@ -1,18 +1,27 @@
-# קבצי סביבה
-.env
+# Virtual Environment
 venv/
 env/
 .venv/
-__pycache__/
 
-# קבצי מערכת
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.py[cod]
+*$py.class
+
+# IDE
+.vscode/
+.idea/
+
+# System
 .DS_Store
 Thumbs.db
 
-# קבצי IDE
-.vscode/
-.idea/
-*.pyc
-
-# קבצי לוגים
+# Logs
 *.log 
