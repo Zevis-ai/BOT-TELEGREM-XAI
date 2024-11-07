@@ -1,0 +1,18 @@
+# קבצי סביבה
+.env
+venv/
+env/
+.venv/
+__pycache__/
+
+# קבצי מערכת
+.DS_Store
+Thumbs.db
+
+# קבצי IDE
+.vscode/
+.idea/
+*.pyc
+
+# קבצי לוגים
+*.log 
